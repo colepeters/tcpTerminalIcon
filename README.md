@@ -3,7 +3,7 @@
 ![cpiTermIcon](512.png)
 
 ## About
-A custom icon for iTerm (or any terminal application, for that matter). A simplified version of the [original iTerm icon](http://www.iterm2.com/images/logo.png), I made this to better match the aesthetic of my [SublimeText icon](http://github.com/colepeters/cpSublimeTextIcon] since they sit side by side in my Dock.
+A custom icon for iTerm (or any terminal application, for that matter). A simplified version of the [original iTerm icon](http://www.iterm2.com/images/logo.png), I made this to better match the aesthetic of my [SublimeText icon](http://github.com/colepeters/cpSublimeTextIcon) since they sit side by side in my Dock.
 
 The <code>icns</code> file includes optimised icons for 512, 256, 128, 32 and 16-pixel sizes, including 2x sizes for Retina displays.
 
