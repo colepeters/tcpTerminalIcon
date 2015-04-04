@@ -1,4 +1,4 @@
-# cpTerminalIcon
+# tcpTerminalIcon
 
 <img src="./512.png" width="256px" alt="Terminal icon">
 
