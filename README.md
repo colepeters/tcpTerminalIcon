@@ -1,9 +1,9 @@
-# cpiTermIcon
+# cpTerminalIcon
 
 <img src="./512.png" width="256px" alt="Terminal icon">
 
 ## About
-A custom icon for iTerm (or any terminal application, for that matter). Draws influences from the [original iTerm icon](http://www.iterm2.com/images/logo.png), but more closely resembles Yosemite’s own Terminal.app icon. 
+A custom icon for any terminal application. Draws influences from Yosemite’s own Terminal.app icon, but uses Solarized colours and a `$_` instead of a `>_` for the prompt. 
 
 The <code>icns</code> file includes optimised icons for 512, 256, 128, and 32-pixel, including 2x sizes for Retina displays.
 
